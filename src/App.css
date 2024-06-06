@@ -1,0 +1,21 @@
+/* App.css */
+.user-list {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-list h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.user-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-list li {
+  margin-bottom: 5px;
+}
